@@ -1,0 +1,20 @@
+{
+  "name": "queues-1",
+  "version": "1.0.0",
+  "description": "queue utilities",
+  "main": "queues-1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/WilRohde/queues.git"
+  },
+  "author": "wil rohde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilRohde/queues/issues"
+  },
+  "homepage": "https://github.com/WilRohde/queues#readme"
+}
